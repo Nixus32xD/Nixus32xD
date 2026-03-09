@@ -18,5 +18,12 @@ Actualmente desarrollando sistemas SaaS orientados a gestión comercial y admini
 
 ## Proyectos
 
-- Sistema SaaS de gestión comercial
+- Sistema SaaS de gestión comercial.
+
+Repositorio privado debido a uso en producción.
+Código disponible para revisión técnica bajo solicitud.
+
 - Plataforma de administración de consorcios
+
+Repositorio privado debido a uso en producción.
+Código disponible para revisión técnica bajo solicitud.
