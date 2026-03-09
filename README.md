@@ -1,16 +1,22 @@
-## Hi there 👋
+# Nicolás Morón
 
-<!--
-**Nixus32xD/Nixus32xD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Laravel / PHP
 
-Here are some ideas to get you started:
+Desarrollador enfocado en backend y arquitectura de aplicaciones web utilizando Laravel. 
+Actualmente desarrollando sistemas SaaS orientados a gestión comercial y administración de consorcios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+- PHP
+- Laravel
+- MySQL
+- Vue
+- Inertia
+- Tailwind
+- REST APIs
+- Git
+
+## Proyectos
+
+- Sistema SaaS de gestión comercial
+- Plataforma de administración de consorcios
